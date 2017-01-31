@@ -7,7 +7,7 @@ But it has been a few years now, and Google is the defacto search tool. They kno
 
 Google is but one example, Facebook know you inside out too, and only recently has it come to light just how pervaisive their knowledge is <Insert Brexit & trump data articles - cambridge company.>
 
-Getting free in under 1 month
+Getting free in under 1 month...
 
 # 4 week plan
 ## Getting off social
@@ -24,3 +24,13 @@ Getting free in under 1 month
   Given the how widespread social media is now an absence of social media presence can often "ring alarm bells" for those looking to get to know you (whether it's a personal or professional scenario). It's getting to the stage where you are abnormal if you don't use social media. <What about anti-social media?>
 
    Leaving a parting note on each of the networks you've abandoned gives you a chance to explain your absence. 
+   
+## Getting off Google
+* Special beast
+* Alternatives
+ * *Paid*  
+  * kolab now https://kolabnow.com/explore
+ * *Free*  
+  * ARE YOU KIDDING ME? HAVE I TAUGHT YOU NOTHING?
+
+
