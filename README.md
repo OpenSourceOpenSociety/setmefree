@@ -16,8 +16,8 @@ Google is but one example, Facebook know you inside out too, and only recently h
 
 ### _Getting free in under 1 month..._
 
-# 4 week plan
-## Getting off social
+## 4 week plan
+### Getting off social
 * Check the locks
   * Checking the perimeter (What do they know?)
   * Closing the gate (Who can see what?)
@@ -32,13 +32,13 @@ Google is but one example, Facebook know you inside out too, and only recently h
 
    Leaving a parting note on each of the networks you've abandoned gives you a chance to explain your absence. 
    
-# Getting off Google
+## Getting off Google
 * Special beast
 
-## Alternatives
- ###  Paid
+### Alternatives
+ #### Paid
   * kolab now https://kolabnow.com/explore
- ### Free
+ #### Free
   * ARE YOU KIDDING ME? HAVE I TAUGHT YOU NOTHING?
 
 <br>
