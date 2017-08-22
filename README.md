@@ -33,6 +33,7 @@ Getting free in under 1 month...
  * *Free*  
   * ARE YOU KIDDING ME? HAVE I TAUGHT YOU NOTHING?
 
+<br>
 
 ## Helpful tools for continued privacy
 * [DuckDuckGo's privacy help kit](https://spreadprivacy.com/tag/device-privacy-tips/)
