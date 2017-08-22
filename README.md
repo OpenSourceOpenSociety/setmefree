@@ -1,3 +1,4 @@
+# SetMeFree
 
 
 *Problem*
@@ -5,9 +6,15 @@
 
 But it has been a few years now, and Google is the defacto search tool. They know every single thing you've wondered about over the entirety of your relationship with them. Every doubt, curiosity, interest, kink exploration.
 
-Google is but one example, Facebook know you inside out too, and only recently has it come to light just how pervaisive their knowledge is <Insert Brexit & trump data articles - cambridge company.>
+Google is but one example, Facebook know you inside out too, and only recently has it come to light just how pervaisive their's and other's knowledge is:
 
-Getting free in under 1 month...
+* [Cambridge analytica under investigation for misuse of data](https://www.theguardian.com/technology/2017/mar/04/cambridge-analytics-data-brexit-trump)
+* [Will Donald Trump’s Data-Analytics Company Allow Russia to Access Research on U.S. Citizens?](http://www.tabletmag.com/jewish-news-and-politics/211152/trump-data-analytics-russian-access)
+* [Cambridge Analytica website; note Commercial and Political split](https://cambridgeanalytica.org/)
+
+<br>
+
+### _Getting free in under 1 month..._
 
 # 4 week plan
 ## Getting off social
@@ -25,12 +32,13 @@ Getting free in under 1 month...
 
    Leaving a parting note on each of the networks you've abandoned gives you a chance to explain your absence. 
    
-## Getting off Google
+# Getting off Google
 * Special beast
-* Alternatives
- * *Paid*  
+
+## Alternatives
+ ###  Paid
   * kolab now https://kolabnow.com/explore
- * *Free*  
+ ### Free
   * ARE YOU KIDDING ME? HAVE I TAUGHT YOU NOTHING?
 
 <br>
