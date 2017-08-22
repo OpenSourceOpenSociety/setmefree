@@ -35,5 +35,5 @@ Getting free in under 1 month...
 
 
 ## Helpful tools for continued privacy
-* (DuckDuckGo's privacy help kit)[https://spreadprivacy.com/tag/device-privacy-tips/]
+* [DuckDuckGo's privacy help kit](https://spreadprivacy.com/tag/device-privacy-tips/)
 
